@@ -26728,6 +26728,34 @@
       "numberOfTrades": 21093,
       "takerBuyBaseAssetVolume": 50.57437,
       "takerBuyQuoteAssetVolume": 4194525.6743317
+    },
+    {
+      "time": "2026.10.07 15:05:00",
+      "timestamp": 1791385500000,
+      "open": 82905.45,
+      "high": 82968.56,
+      "low": 82818.16,
+      "close": 82919.85,
+      "volume": 109.71915,
+      "closeTime": 1791385799999,
+      "quoteAssetVolume": 9094394.5922678,
+      "numberOfTrades": 22402,
+      "takerBuyBaseAssetVolume": 46.09833,
+      "takerBuyQuoteAssetVolume": 3821021.1691567
+    },
+    {
+      "time": "2026.10.07 15:10:00",
+      "timestamp": 1791385800000,
+      "open": 82919.86,
+      "high": 83151.58,
+      "low": 82919.85,
+      "close": 83078.0,
+      "volume": 100.61603,
+      "closeTime": 1791386099999,
+      "quoteAssetVolume": 8354324.0101919,
+      "numberOfTrades": 25705,
+      "takerBuyBaseAssetVolume": 69.30305,
+      "takerBuyQuoteAssetVolume": 5754283.0365898
     }
   ]
 }

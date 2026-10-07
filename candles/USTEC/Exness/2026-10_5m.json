@@ -14082,6 +14082,28 @@
       "tick_volume": 9549,
       "spread": 78,
       "real_volume": 0
+    },
+    {
+      "time": "2026.10.07 15:05:00",
+      "timestamp": 1791385500,
+      "open": 31038.1,
+      "high": 31060.23,
+      "low": 31036.86,
+      "close": 31059.11,
+      "tick_volume": 7014,
+      "spread": 78,
+      "real_volume": 0
+    },
+    {
+      "time": "2026.10.07 15:10:00",
+      "timestamp": 1791385800,
+      "open": 31059.36,
+      "high": 31095.87,
+      "low": 31053.81,
+      "close": 31077.86,
+      "tick_volume": 10654,
+      "spread": 78,
+      "real_volume": 0
     }
   ]
 }
